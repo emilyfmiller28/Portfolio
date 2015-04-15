@@ -11,7 +11,7 @@ header{
   margin: 0 auto;
   padding-top:150px;
 }
-#wrapper{
+#heading{
   text-align:center;
   opacity:0.8;
   background-color:#d5d1cd;
@@ -22,4 +22,5 @@ header{
 h1{
   font-weight:300;
   font-size:2em;
+  color:#2f322a;
 }

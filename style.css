@@ -40,3 +40,12 @@ h2{
   float: left;
   padding-right: 1.5em;
 }
+a:link{
+  color:#c896ad;
+}
+a:hover{
+  color:#698eca;
+}
+a:visted{
+  color:#c896ad;
+}

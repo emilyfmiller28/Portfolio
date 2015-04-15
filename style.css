@@ -24,3 +24,19 @@ h1{
   font-size:2em;
   color:#2f322a;
 }
+h2{
+  font-family:'Lato', sans-serif;
+  font-weight:300;
+}
+#body{
+  width:984px;
+  background-color:#d5d1cd;
+  margin: 0 auto;
+  padding: 1px;
+}
+.boxElement{
+  box-sizing: border-box;
+  width: 32%;
+  float: left;
+  padding-right: 1.5em;
+}

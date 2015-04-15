@@ -42,10 +42,13 @@ h2{
 }
 a:link{
   color:#c896ad;
+  text-decoration: none;
 }
 a:hover{
   color:#698eca;
+  text-decoration: none;
 }
 a:visted{
   color:#c896ad;
+  text-decoration: none;
 }

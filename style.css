@@ -1,5 +1,25 @@
 @import url(http://fonts.googleapis.com/css?family=Rokkitt);
-
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
 body{
   font-family:'Rokkitt', serif;
+  background-color:#5d6f51;
+}
+header{
+  height:268px;
+  width:984px;
+  background-image:url(flower.jpg);
+  margin: 0 auto;
+  padding-top:150px;
+}
+#wrapper{
+  text-align:center;
+  opacity:0.8;
+  background-color:#d5d1cd;
+  padding: 15px 0;
+  font-family:'Lato', sans-serif;
+  font-weight:300;
+}
+h1{
+  font-weight:300;
+  font-size:2em;
 }

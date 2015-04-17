@@ -27,12 +27,14 @@ h1{
 h2{
   font-family:'Lato', sans-serif;
   font-weight:300;
+  text-align: center;
 }
 #body{
   width:984px;
   background-color:#d5d1cd;
   margin: 0 auto;
   padding: 1px;
+  height:500px;
 }
 .boxElement{
   box-sizing: border-box;
@@ -42,7 +44,6 @@ h2{
   overflow:auto;
   background-color:#d5d1cd;
   height:500px;
-
 }
 a:link{
   color:#c896ad;
@@ -52,7 +53,7 @@ a:hover{
   color:#698eca;
   text-decoration: none;
 }
-a:visted{
-  color:#c896ad;
+a:visited{
+  color:#e37b9b;
   text-decoration: none;
 }

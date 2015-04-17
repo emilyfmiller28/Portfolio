@@ -36,9 +36,13 @@ h2{
 }
 .boxElement{
   box-sizing: border-box;
-  width: 32%;
+  width: 328px;
   float: left;
   padding-right: 1.5em;
+  overflow:auto;
+  background-color:#d5d1cd;
+  height:500px;
+
 }
 a:link{
   color:#c896ad;

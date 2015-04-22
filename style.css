@@ -3,9 +3,10 @@
 body{
   font-family:'Rokkitt', serif;
   background-color:#5d6f51;
+  padding: 7px;
 }
 header{
-  height:268px;
+  height:215px;
   width:984px;
   background-image:url(images/flower.jpg);
   margin: 0 auto;
@@ -15,7 +16,7 @@ header{
   text-align:center;
   opacity:0.8;
   background-color:#d5d1cd;
-  padding: 15px 0;
+  padding: 10px 0;
   font-family:'Lato', sans-serif;
   font-weight:300;
 }
@@ -27,21 +28,21 @@ h1{
 h2{
   font-family:'Lato', sans-serif;
   font-weight:300;
-  text-align: center;
+  font-size:1.2em;
 }
 #body{
   width:984px;
   background-color:#d5d1cd;
   margin: 0 auto;
-  padding: 1px;
-  height:500px;
+  height:100%;
+  padding: 5px;
 }
 .boxElement{
   box-sizing: border-box;
   width: 328px;
   float: left;
-  padding-right: 1.5em;
   overflow:auto;
+  padding: 7px;
   background-color:#d5d1cd;
   height:500px;
 }
@@ -56,4 +57,11 @@ a:hover{
 a:visited{
   color:#e37b9b;
   text-decoration: none;
+}
+#Resume{
+  padding-right: 5px;
+}
+.Butts{
+  padding-bottom: 2%;
+  border-bottom: 2px solid #5d6f51;
 }

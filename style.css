@@ -2,9 +2,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
 body{
   font-family:'Rokkitt', serif;
-  font-size:18px;
   background-color:#5d6f51;
   padding: 7px;
+  font-size: 18px;
 }
 header{
   height:215px;
@@ -12,6 +12,9 @@ header{
   background-image:url(images/flower.jpg);
   margin: 0 auto;
   padding-top:150px;
+}
+nav{
+  font-size: 18px;
 }
 #heading{
   text-align:center;
@@ -23,7 +26,7 @@ header{
 }
 h1{
   font-weight:300;
-  font-size:2em;
+  font-size:2.15em;
   color:#2f322a;
 }
 h2{

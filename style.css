@@ -74,3 +74,14 @@ a:visited{
   padding-bottom: 2%;
   border-bottom: 2px solid #5d6f51;
 }
+#Portfolio{
+  background-image: url("images/portfolio.jpg");
+  width:900px;
+  height:278px;
+}
+#Portfolio a{
+  display: inline-block;
+  width:223px;
+  height:278px;
+  border: 2px solid #d5d1cd;
+}

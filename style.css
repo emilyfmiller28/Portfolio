@@ -64,7 +64,6 @@ a:visited{
   text-decoration: none;
 }
 #thisthing{
-  text-align: center;
   font-size: 1.25em;
 }
 #Resume{
@@ -81,7 +80,8 @@ a:visited{
 }
 #Portfolio a{
   display: inline-block;
-  width:223px;
+  width:218px;
   height:278px;
   border: 2px solid #d5d1cd;
+  margin: 0;
 }

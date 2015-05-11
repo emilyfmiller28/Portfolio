@@ -68,6 +68,17 @@ a:visited{
   color:#e37b9b;
   text-decoration: none;
 }
+#about{
+  font-family:'Lato', sans-serif;
+  font-size:20px;
+  color: #5e7c93;
+}
+#about img{
+  float:left;
+  padding-right: 15px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
 #thisthing{
   font-size: 1.25em;
 }

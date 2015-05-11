@@ -51,6 +51,11 @@ h2{
   background-color:#d5d1cd;
   height:500px;
 }
+.boxElement img{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
 a:link{
   color:#c896ad;
   text-decoration: none;

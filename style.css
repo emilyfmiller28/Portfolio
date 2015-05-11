@@ -89,9 +89,13 @@ a:visited{
   box-sizing: border-box;
   padding: 120px 75px;
   font-size:1.5em;
-  color:#698eca;
-  text-decoration:underline;
+  color:#ffffff;
   font-weight:700;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
 
 }
 #Insta{

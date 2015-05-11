@@ -109,7 +109,15 @@ blockquote{
 }
 #Return{
   text-align:center;
+  clear: both;
 }
 #Return a{
   color: #698eca;
+}
+#creative{
+  padding-left: 20px;
+}
+#creative img{
+  float: right;
+  padding-right: 100px;
 }

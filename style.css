@@ -97,3 +97,8 @@ a:visited{
 #Insta{
   margin: 20px 25px;
 }
+blockquote{
+  border-left:5px solid #698eca;
+  padding-left: 5px;
+  font-style: italic;
+}
